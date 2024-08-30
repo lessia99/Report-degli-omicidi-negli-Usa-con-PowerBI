@@ -11,3 +11,5 @@ Il dataset della popolazione statunitense si può scaricare da qui:
 https://it.wikipedia.org/wiki/Stati_federati_degli_Stati_Uniti_d%27America_per_popolazione
 
 Le colonne interessate per l'analisi sono 'Popolazione' e 'Stato'.
+
+Combinando queste informazioni con il file csv 'omicidi.csv', si può visualizzare il report.
