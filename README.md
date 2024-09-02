@@ -8,11 +8,11 @@
 - *decessi tot omicidio*
 
 2. **Report_omicidi_USA.pbix**: report sugli omicidi negli stati uniti, con le seguenti analisi
-   - *USA*: tabelle che riportano i totali di popolazione e omicidi per stato;
-   - *STATISTICHE*: grafico a cascata che mostra la popolazione per stato;
-   - *ALBERO*: albero che mostra il numero di omicidi per stato;
-   - *MAPPA*: mappa degli USA per una visione chiara delle morti;ù
-   - *VISUAL*: grafici che mostrato le medie degli omicidi e della popolazione in relazione al tot della popolazione statunitense 
+- *USA*: tabelle che riportano i totali di popolazione e omicidi per stato;
+- *STATISTICHE*: grafico a cascata che mostra la popolazione per stato;
+- *ALBERO*: albero che mostra il numero di omicidi per stato;
+- *MAPPA*: mappa degli USA per una visione chiara delle morti;ù
+- *VISUAL*: grafici che mostrato le medie degli omicidi e della popolazione in relazione al tot della popolazione statunitense 
 
 ## Descrizione progetto
 
